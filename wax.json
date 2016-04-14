@@ -1,0 +1,13 @@
+{
+  "mappings": [{
+      "source": "/yandex",
+      "target": "http://www.yandex.ru"
+    }, {
+      "source": "/google",
+      "target": "http://www.google.com"
+    }, {
+      "source": "/space",
+      "target": "http://www.nasa.gov"
+    }
+  ]
+}
